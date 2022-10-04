@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/4cesec?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
-![主席同志's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=4acesec&show_icons=true&count_private=true&theme=gotham)
+![Metrics](https://metrics.lecoq.io/4cesec?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)  
+![主席同志's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=4cesec&show_icons=true&count_private=true&theme=gotham)
